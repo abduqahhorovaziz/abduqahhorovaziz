@@ -29,7 +29,6 @@
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/webflow.png"/></a>
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/wordpress.png"/></a>
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/git.png"/></a>
-<a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/vue.png"/></a>
 </p>
 
 <p>
