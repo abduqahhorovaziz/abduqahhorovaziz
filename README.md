@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[React eCommerce App](#)**
+- 🔭 I’m currently working on **[FullStack News App](#)**
   
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Nuxt 3 and VueJS**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://abduqahhorovaziz.github.io/new-cv/)**
 
@@ -23,13 +23,13 @@
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/> </a>
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/css3.png"/></a>
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/></a>
-<a href="#" target="_blank"> <img src="https://img.icons8.com/plasticine/48/null/react.png"/></a>
 <a href="#" target="_blank"> <img src="https://img.icons8.com/material-outlined/48/000000/django.png"/></a>
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/sass.png"/></a>
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/bootstrap.png"/></a>
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/webflow.png"/></a>
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/wordpress.png"/></a>
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/git.png"/></a>
+<a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/null/vue.png"/></a>
 </p>
 
 <p>
